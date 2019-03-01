@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{2260BE67-1E9F-4D77-81C1-FE344E02A740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyIoCContainer", "MyIoCContainer\MyIoCContainer.csproj", "{97A73755-61CD-42E9-BECC-4DA42651CD63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2260BE67-1E9F-4D77-81C1-FE344E02A740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2260BE67-1E9F-4D77-81C1-FE344E02A740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2260BE67-1E9F-4D77-81C1-FE344E02A740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2260BE67-1E9F-4D77-81C1-FE344E02A740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A73755-61CD-42E9-BECC-4DA42651CD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A73755-61CD-42E9-BECC-4DA42651CD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A73755-61CD-42E9-BECC-4DA42651CD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A73755-61CD-42E9-BECC-4DA42651CD63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48FFA282-1BBA-4EE8-B37D-2FEE8B3934CF}
+	EndGlobalSection
+EndGlobal
